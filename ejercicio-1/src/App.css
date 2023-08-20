@@ -1,0 +1,15 @@
+.todo-list {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.todo-list > ul {
+  padding: 1em;
+  font-size: 1.5em;
+  justify-items: center;
+}
+.todo-list > ul > li {
+  text-align: start;
+  color: white;
+}
