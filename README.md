@@ -1,4 +1,4 @@
-### [Ejercicio 1. Añadir y eliminar elementos de una lista (React)](https://github.com/interviews-tests/alicunde/ejercicio-1)
+### [Ejercicio 1. Añadir y eliminar elementos de una lista (React)](https://github.com/interviews-tests/alicunde/tree/main/ejercicio-1)
 
   
 
@@ -17,7 +17,7 @@
   
   
 
-### [Ejercicio 2. API REST (Nodejs)](https://github.com/interviews-tests/alicunde/ejercicio-2)
+### [Ejercicio 2. API REST (Nodejs)](https://github.com/interviews-tests/alicunde/tree/main/ejercicio-2)
 
 #### Requisitos:
 
